@@ -1,0 +1,9 @@
+1_ShopskaSalata_400_5.0
+2_Burger_300_9.5
+3_Pizza_550_18.2
+4_coka-cola_500_3.4
+5_beer_500_4.75
+6_water_1500_3.5
+7_rakia_50_3.5
+8_Sausage_250_6.5
+9_vodka_100_12.75

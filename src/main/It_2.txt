@@ -1,0 +1,8 @@
+1_ShopskaSalata_400_5.00
+2_Burger_300_9.50
+3_Pizza_600_17.80
+4_coka-cola_500_3.40
+5_beer_500_4.75
+6_water_1500_3.50
+7_rakia_50_3.50
+8_Sausage_250_6.5
