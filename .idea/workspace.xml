@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="388714fa-d7fd-4b29-8152-6019fe3b6fc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantManagement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/It_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Items.txt.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/items2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scalefocus/RestaurantManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scalefocus/item/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scalefocus/item/ItemAccessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scalefocus/item/ItemMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scalefocus/item/ItemPresenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scalefocus/item/ItemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scalefocus/util/ConsoleRangeReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scalefocus/util/ConsoleReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
