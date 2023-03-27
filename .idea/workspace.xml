@@ -5,7 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="388714fa-d7fd-4b29-8152-6019fe3b6fc4" name="Changes" comment="Ajde treta proba">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantManagement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantManagement/com/scalefocus/RestaurantManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantManagement/com/scalefocus/item/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantManagement/com/scalefocus/item/ItemAccessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantManagement/com/scalefocus/item/ItemMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantManagement/com/scalefocus/item/ItemPresenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantManagement/com/scalefocus/item/ItemService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantManagement/com/scalefocus/util/ConsoleRangeReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RestaurantManagement/com/scalefocus/util/ConsoleReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/It_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Items.txt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/items2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scalefocus/RestaurantManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scalefocus/item/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scalefocus/item/ItemAccessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scalefocus/item/ItemMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scalefocus/item/ItemPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scalefocus/item/ItemService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scalefocus/util/ConsoleRangeReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scalefocus/util/ConsoleReader.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
